@@ -1,8 +1,5 @@
 .DS_Store
 node_modules/
-07/euposso1108200/node_modules
-08/euposso11091011/node_modules
-nasa-search-vue/node_modules
 
 npm-debug.log*
 yarn-debug.log*
@@ -10,6 +7,7 @@ yarn-error.log*
 
 # Editor directories and files
 .idea
+.vscode
 *.suo
 *.ntvs*
 *.njsproj
