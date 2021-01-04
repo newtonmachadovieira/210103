@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+07/euposso1108200/node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
